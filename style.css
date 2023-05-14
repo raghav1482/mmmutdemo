@@ -116,6 +116,7 @@ color:white}
   bottom: 50%;
   border-top-right-radius: 40px;
   animation: trans 1s ;
+  text-shadow: 0 0 40px black;
 }
 
 
